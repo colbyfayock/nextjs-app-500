@@ -8,3 +8,4 @@
 
   [plugins.inputs.maxSize]
   width = 1200
+  height = 1200
