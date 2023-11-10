@@ -5,3 +5,6 @@
   cloudName = "netlify-cloudinary"
   deliveryType = "upload"
   folder = "nextjs-app-500"
+
+  [plugins.inputs.maxSize]
+  width = 1200
